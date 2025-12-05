@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drivers>
+    <driver id="DRV001">
+        <name>Ahmed Ben Ali</name>
+        <phone>+216 22 345 678</phone>
+        <rating>4.9</rating>
+        <vehicle>
+            <make>Toyota</make>
+            <model>Corolla</model>
+            <year>2020</year>
+            <color>White</color>
+            <licensePlate>TN-123-456</licensePlate>
+        </vehicle>
+        <license>TN-LIC-001234</license>
+        <location>
+            <latitude>36.8165</latitude>
+            <longitude>10.1915</longitude>
+        </location>
+        <available>true</available>
+    </driver>
+    <driver id="DRV002">
+        <name>Fatima Mansouri</name>
+        <phone>+216 98 765 432</phone>
+        <rating>4.95</rating>
+        <vehicle>
+            <make>Honda</make>
+            <model>Civic</model>
+            <year>2021</year>
+            <color>Black</color>
+            <licensePlate>TN-789-012</licensePlate>
+        </vehicle>
+        <license>TN-LIC-005678</license>
+        <location>
+            <latitude>36.8065</latitude>
+            <longitude>10.1715</longitude>
+        </location>
+        <available>true</available>
+    </driver>
+    <driver id="DRV003">
+        <name>Mohamed Trabelsi</name>
+        <phone>+216 55 123 987</phone>
+        <rating>4.85</rating>
+        <vehicle>
+            <make>Nissan</make>
+            <model>Sentra</model>
+            <year>2019</year>
+            <color>Silver</color>
+            <licensePlate>TN-345-678</licensePlate>
+        </vehicle>
+        <license>TN-LIC-009876</license>
+        <location>
+            <latitude>36.8265</latitude>
+            <longitude>10.2015</longitude>
+        </location>
+        <available>true</available>
+    </driver>
+</drivers>

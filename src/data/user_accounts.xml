@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <rider id="RDR001">
+        <fullName>Amal Khoury</fullName>
+        <email>amal.khoury@example.com</email>
+        <password>riderpass123</password>
+        <phone>99112233</phone>
+    </rider>
+    <driver id="DRV101">
+        <fullName>Zied Gharbi</fullName>
+        <email>zied.gharbi@example.com</email>
+        <password>driverpass123</password>
+        <phone>99332211</phone>
+        <licenseNumber>TN-DL-112233</licenseNumber>
+        <vehicleMake>Renault</vehicleMake>
+        <vehicleModel>Clio</vehicleModel>
+        <licensePlate>TN-333-111</licensePlate>
+    </driver>
+</users>
